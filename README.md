@@ -3,5 +3,5 @@
 
 trying to create a conflict .
 
-let's create a conflict in feature branch. 
+let's create a conflict in main branch. 
 
